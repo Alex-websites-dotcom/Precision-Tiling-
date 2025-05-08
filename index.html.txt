@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Precision Tiling</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container">
+      <h1>Precision Tiling</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Transform Your Space with Precision and Care</h2>
+    <p>We bring your vision to life with expert tiling and craftsmanship, one tile at a time.</p>
+    <a href="about.html" class="btn">Learn More</a>
+  </section>
+
+  <!-- Services Section -->
+  <section class="services">
+    <h3>Our Services</h3>
+    <ul>
+      <li>Bathroom Tiling</li>
+      <li>Kitchen Backsplashes</li>
+      <li>Floor Tiling</li>
+      <li>Custom Tiling Projects</li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Precision Tiling | All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
